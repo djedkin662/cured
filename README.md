@@ -1,0 +1,2 @@
+# cured
+Obfuscated code
